@@ -1,0 +1,14 @@
+h=145
+w=145
+b=200
+oversampling=True
+no_of_patch=200
+patch_size=5
+CONV_1_CHANNELS = 500
+CONV_2_CHANNELS = 100
+FC_1_UNITS = 200
+FC_2_UNITS = 84
+FC_3_UNITS = 16
+CONV_K_S = 5
+POOL_K_S = 2
+STRIDES = 2
