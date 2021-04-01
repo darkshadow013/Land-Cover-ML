@@ -1,0 +1,25 @@
+
+
+
+	1. Number of Pixels with Ground Truth: 10249 
+
+	2. Number of Pixels without Ground Truth: 10776 
+
+	3. Number of Train Samples : 3200 
+
+	4. Number of Test Samples : 2563 
+
+
+
+-----------------------------------------------------------------------OVERALL COMPARISION OF ACCURACY-----------------------------------------------------------------
+
+
+
+
+Accuracy on Test Samples Using Only CNN :-  85.48575639724731 (%)
+
+Accuracy on Test Samples Using Only SVM :-  83.67479674796748 (%)
+
+Accuracy on Train Samples Using CNN-SVM :-  99.8125 (%)
+
+Accuracy on Test Samples Using CNN-SVM :-  92.31369488880219 (%)

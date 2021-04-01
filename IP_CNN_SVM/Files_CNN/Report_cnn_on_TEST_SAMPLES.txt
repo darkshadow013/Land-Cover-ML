@@ -1,0 +1,2 @@
+Number of Test Samples : 2563 
+Test accuracy : 85.48575639724731 (%)
